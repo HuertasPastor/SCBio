@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1110acf0-3d8a-445e-95a0-711cb9e8fcde" name="Changes" comment="Evitando exponer mi clave API en GitHub">
+    <list default="true" id="1110acf0-3d8a-445e-95a0-711cb9e8fcde" name="Changes" comment="Subir el código">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatGPT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corrector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Corrector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -116,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678401931476</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Subir el código">
+      <created>1678402826449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678402826449</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +149,7 @@
     <MESSAGE value="Actualizando la clave y realizando pruebas" />
     <MESSAGE value="Comentando y añadiendo la función Corrector" />
     <MESSAGE value="Evitando exponer mi clave API en GitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="Evitando exponer mi clave API en GitHub" />
+    <MESSAGE value="Subir el código" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subir el código" />
   </component>
 </project>
