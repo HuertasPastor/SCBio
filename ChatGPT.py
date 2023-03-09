@@ -9,7 +9,7 @@ def generar_respuesta(ruta_archivo):
         texto = archivo.read()
 
     # Creamos una instancia de la API de OpenAI
-    openai.api_key = "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"
+    openai.api_key = "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"
     modelo = "text-davinci-002"
 
     # Generamos la respuesta utilizando el modelo de OpenAI
