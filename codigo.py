@@ -9,7 +9,7 @@ df generar_respuesta(ruta_archivo):
         texto = archivo.read()
 
     # Creamos una instancia de la API de OpenAI
-    openai.api_key  "API_KEY"
+    openai.api_key  "API_AI_KEY"
     modelo = "text-davinci-002"
     # Es necesario introducir tu propia clave API de open AI
 
